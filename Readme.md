@@ -196,7 +196,7 @@ json
 
 ---
 
-## 🧠 Business Rules Implemented
+##  Business Rules Implemented
 - Max capacity: 1000
 - No duplicate registrations
 - No registrations for past events
